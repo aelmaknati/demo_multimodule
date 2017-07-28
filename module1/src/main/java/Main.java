@@ -7,6 +7,6 @@ public class Main {
      * @param args Arguments
      */
     public static void main(String args[]){
-        System.out.println("ok module 1")
+        System.out.println("ok module 1");
     }
 }
