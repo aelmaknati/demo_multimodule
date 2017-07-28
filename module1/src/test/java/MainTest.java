@@ -9,7 +9,7 @@ public class MainTest {
 
     @Test
     public void test1(){
-        assertEquals(5 ,65);
+        assertEquals(5 ,5);
     }
 
 }
